@@ -76,7 +76,7 @@
     strings = $('.typed-items').data('typed-person') + ',' + strings;
     strings = strings.split(',');
 
-    typed.typed({
+   typed.typed({
       strings: strings,
       typeSpeed: 100,
       loop: true,

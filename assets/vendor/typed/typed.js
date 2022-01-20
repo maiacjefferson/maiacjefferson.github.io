@@ -21,8 +21,6 @@
 // THE SOFTWARE.
 
 
-
-
 ! function($) {
 
 	"use strict";
@@ -155,7 +153,7 @@
 			// }
 			// else{ self.backDelay = 500; }
 
-			// contain typing function in a timeout humanize'd delay
+			// contain typing function in a timeout humanized delay
 			self.timeout = setTimeout(function() {
 				// check for an escape character before a pause value
 				// format: \^\d+ .. eg: ^1000 .. should be able to print the ^ too using ^^
