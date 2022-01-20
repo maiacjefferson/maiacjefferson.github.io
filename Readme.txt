@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+My personal website combines HTML, CSS and JS to create dynamic-looking content that can be hosted on GitHub Pages.
 
 Template Name: Folio
 Template URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
-Author: BootstrapMade.com
+Template Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
